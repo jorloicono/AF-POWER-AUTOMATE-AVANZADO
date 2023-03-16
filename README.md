@@ -1,3 +1,7 @@
+# GRABACIONES
+
+- SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f0d91f3ebb09444a7cdbbe64fdf333871a8b0c7a9829897727519e71d5c6d8a8
+
 # AF-POWER-AUTOMATE-AVANZADO
 
 ## Integrar Power Automate con otras tecnologías 
