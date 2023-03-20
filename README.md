@@ -27,6 +27,5 @@
 
 - Combinar flujos de escritorio y Nube 
 - Implementar con bases de datos 
-- Gestionar AD 
 - Scripting 
 - OCR
