@@ -1,6 +1,7 @@
 # GRABACIONES
 
 - SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f0d91f3ebb09444a7cdbbe64fdf333871a8b0c7a9829897727519e71d5c6d8a8
+- SESIÓN 2: https://transcripts.gotomeeting.com/#/s/ad47cb3ba0eb35938b872751a6c82388ee2faeb0593855797e63df94dbc36cea
 
 # AF-POWER-AUTOMATE-AVANZADO
 
